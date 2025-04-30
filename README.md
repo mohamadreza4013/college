@@ -1,2 +1,2 @@
 # college
-projects i did in college
+important projects i did in college
