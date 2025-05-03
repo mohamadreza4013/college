@@ -1,5 +1,5 @@
 # college
-important projects i did in college,,,
+important projects i did in college,,,  
 a lexical analyzer for ciut,,,
 simple nn without framework,,,
 simple nn with pytorch,,,
